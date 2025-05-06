@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/language-TypeScript-3178c6?logo=typescript)
 ![Node.js](https://img.shields.io/badge/backend-Node.js-43853d?logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-336791?logo=postgresql)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
 Sistema completo para gerenciamento de um catálogo de filmes. O usuário pode se cadastrar, fazer login, buscar, filtrar e adicionar filmes, com interface moderna e API segura.
 
