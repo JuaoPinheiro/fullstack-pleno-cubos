@@ -66,7 +66,7 @@ Sistema completo para gerenciamento de um catálogo de filmes. O usuário pode s
 ### 🛠️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/fullstack-pleno-cubos.git
+git clone https://github.com/JuaoPinheiro/fullstack-pleno-cubos.git
 cd fullstack-pleno-cubos
 
 
