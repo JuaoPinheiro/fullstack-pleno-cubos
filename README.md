@@ -71,8 +71,9 @@ cd fullstack-pleno-cubos
 ````
 🧩 Backend (API)
 📍 Acesse a pasta do backend
-
+```
 cd server
+```
 
 
 📦 Instale as dependências
@@ -83,14 +84,19 @@ npm install
 
 Baseado no .env.example:
 
+```
 DATABASE_URL=postgres://usuario:senha@localhost:5432/seu_banco
 JWT_SECRET=sua_chave_secreta
 PORT=3333
+```
 
 
 🔄 Rode as migrações
+```
 
 npx knex migrate:latest
+
+```
 
 ▶️ Inicie o servidor
 
@@ -100,11 +106,15 @@ O backend estará disponível em: http://localhost:3000
 
 💻 Frontend (Client)
 📍 Acesse a pasta do frontend
+```
 cd ../client
+```
 
 
 📦 Instale as dependências
+```
 npm install
+```
 
 
 ▶️ Rode o projeto
@@ -127,18 +137,20 @@ Frontend disponível em: http://localhost:5173
 🛠 Scripts Importantes
 
 📍 Backend
+```
 npm run dev
 npx knex migrate:latest
-npx knex migrate:rollback 
+npx knex migrate:rollback
+```
 
-
+```
 📍 Frontend
 npm run dev
 npm run build 
 npm run lint 
+```
 
-
-
+---
 
 
 🧑‍💻 Autor
